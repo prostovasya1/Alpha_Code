@@ -1,0 +1,6 @@
+C:\Users\Василий\Desktop\AlphaCode\AlphaCode\bin\Debug\AlphaCode.exe.config
+C:\Users\Василий\Desktop\AlphaCode\AlphaCode\obj\Debug\AlphaCode.csprojResolveAssemblyReference.cache
+C:\Users\Василий\Desktop\AlphaCode\AlphaCode\bin\Debug\AlphaCode.exe
+C:\Users\Василий\Desktop\AlphaCode\AlphaCode\bin\Debug\AlphaCode.pdb
+C:\Users\Василий\Desktop\AlphaCode\AlphaCode\obj\Debug\AlphaCode.exe
+C:\Users\Василий\Desktop\AlphaCode\AlphaCode\obj\Debug\AlphaCode.pdb
